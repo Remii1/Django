@@ -1,0 +1,9 @@
+h1{
+    color: aqua;
+
+}
+body{
+    background-image: url("/static/images/image3.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
